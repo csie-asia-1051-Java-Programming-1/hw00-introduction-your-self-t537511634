@@ -7,7 +7,7 @@ public class intoudice {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("汪元浩 資工數位1A 105021029");
+		System.out.println("My name is 汪元浩");
 	}
 
 }
